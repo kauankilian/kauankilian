@@ -4,4 +4,4 @@ Olá, eu sou o Kauan Kilian!
 
 #
 
-<a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> ![kauan-kilian](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+ ![www.linkedin.com/in/kauan-kilian](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
